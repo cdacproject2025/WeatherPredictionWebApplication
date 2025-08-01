@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dotnet-api-weatherapp.props" />
+</Project>
