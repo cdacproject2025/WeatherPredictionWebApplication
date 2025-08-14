@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\dotnet-api-weatherapp\\",
+  "WorkspaceRootPath": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|d:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|c:\\users\\ak\\desktop\\weatherpredictionwebapplication\\finalprojectversion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|solutionrelative:dotnet-api-weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|d:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|c:\\users\\ak\\desktop\\weatherpredictionwebapplication\\finalprojectversion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|solutionrelative:dotnet-api-weatherapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|d:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|c:\\users\\ak\\desktop\\weatherpredictionwebapplication\\finalprojectversion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|solutionrelative:dotnet-api-weatherapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|d:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|c:\\users\\ak\\desktop\\weatherpredictionwebapplication\\finalprojectversion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|solutionrelative:dotnet-api-weatherapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|d:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|c:\\users\\ak\\desktop\\weatherpredictionwebapplication\\finalprojectversion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|solutionrelative:dotnet-api-weatherapp\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|d:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|c:\\users\\ak\\desktop\\weatherpredictionwebapplication\\finalprojectversion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|solutionrelative:dotnet-api-weatherapp\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|d:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|c:\\users\\ak\\desktop\\weatherpredictionwebapplication\\finalprojectversion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|solutionrelative:dotnet-api-weatherapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|d:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|c:\\users\\ak\\desktop\\weatherpredictionwebapplication\\finalprojectversion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|solutionrelative:dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|d:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\models\\weatherreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|c:\\users\\ak\\desktop\\weatherpredictionwebapplication\\finalprojectversion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\models\\weatherreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C622202-C6BC-498B-9179-B5BB918E124B}|dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj|solutionrelative:dotnet-api-weatherapp\\models\\weatherreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -52,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\DTOs\\UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "dotnet-api-weatherapp\\DTOs\\UserDto.cs",
-              "ToolTip": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\DTOs\\UserDto.cs",
               "RelativeToolTip": "dotnet-api-weatherapp\\DTOs\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,22 +64,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "dotnet-api-weatherapp\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Controllers\\AuthController.cs",
               "RelativeToolTip": "dotnet-api-weatherapp\\Controllers\\AuthController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAYwB8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T06:48:57.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T06:48:57.779Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "dotnet-api-weatherapp.csproj",
-              "DocumentMoniker": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj",
+              "DocumentMoniker": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj",
               "RelativeDocumentMoniker": "dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj",
-              "ToolTip": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj",
+              "ToolTip": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj",
               "RelativeToolTip": "dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -89,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Program.cs",
               "RelativeDocumentMoniker": "dotnet-api-weatherapp\\Program.cs",
-              "ToolTip": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Program.cs",
+              "ToolTip": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Program.cs",
               "RelativeToolTip": "dotnet-api-weatherapp\\Program.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAowDQAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\DbContext\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\DbContext\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "dotnet-api-weatherapp\\DbContext\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\DbContext\\ApplicationDbContext.cs",
               "RelativeToolTip": "dotnet-api-weatherapp\\DbContext\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,9 +113,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "WeatherReport.cs",
-              "DocumentMoniker": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Models\\WeatherReport.cs",
+              "DocumentMoniker": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Models\\WeatherReport.cs",
               "RelativeDocumentMoniker": "dotnet-api-weatherapp\\Models\\WeatherReport.cs",
-              "ToolTip": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Models\\WeatherReport.cs",
+              "ToolTip": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Models\\WeatherReport.cs",
               "RelativeToolTip": "dotnet-api-weatherapp\\Models\\WeatherReport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,9 +125,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Models\\User.cs",
               "RelativeDocumentMoniker": "dotnet-api-weatherapp\\Models\\User.cs",
-              "ToolTip": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\Models\\User.cs",
               "RelativeToolTip": "dotnet-api-weatherapp\\Models\\User.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,22 +137,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\appsettings.json",
               "RelativeDocumentMoniker": "dotnet-api-weatherapp\\appsettings.json",
-              "ToolTip": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\appsettings.json",
+              "ToolTip": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\appsettings.json",
               "RelativeToolTip": "dotnet-api-weatherapp\\appsettings.json",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-29T06:40:22.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T06:40:22.863Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "LoginDto.cs",
-              "DocumentMoniker": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\DTOs\\LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "dotnet-api-weatherapp\\DTOs\\LoginDto.cs",
-              "ToolTip": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\DTOs\\LoginDto.cs",
               "RelativeToolTip": "dotnet-api-weatherapp\\DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

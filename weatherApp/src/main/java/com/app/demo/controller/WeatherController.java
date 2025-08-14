@@ -37,7 +37,7 @@ import org.springframework.web.client.RestTemplate;
 
 
 //@CrossOrigin(origins = "http://localhost:3000")
-@CrossOrigin(origins = "http://localhost:5177")
+@CrossOrigin(origins = "http://localhost:5173")
 
 
 public class WeatherController {

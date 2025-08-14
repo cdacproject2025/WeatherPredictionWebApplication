@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj": {}
+    "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj": {}
   },
   "projects": {
-    "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj": {
+    "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj",
+        "projectUniqueName": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj",
         "projectName": "dotnet-api-weatherapp",
-        "projectPath": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj",
-        "packagesPath": "C:\\Users\\Guest1\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\obj\\",
+        "projectPath": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\dotnet-api-weatherapp.csproj",
+        "packagesPath": "C:\\Users\\AK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AK\\Desktop\\WeatherPredictionWebApplication\\FinalProjectVersion\\dotnet-api-weatherapp\\dotnet-api-weatherapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Guest1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +44,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -98,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
